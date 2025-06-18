@@ -11,5 +11,7 @@ LIGHTGBM_PARAMS = dict(
     subsample       = 0.8,
     colsample_bytree= 0.8,
     reg_lambda      = 1.0,
-    min_child_samples = 20
+    min_child_samples = 20,
+    n_jobs          = -1,
+    verbose         = -1,
 )

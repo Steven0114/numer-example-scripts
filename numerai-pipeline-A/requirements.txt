@@ -1,0 +1,10 @@
+pandas>=1.5.0
+numpy>=1.21.0
+scikit-learn>=1.0.0
+lightgbm>=3.3.0
+numerapi>=2.14.0
+pyarrow>=8.0.0
+scipy>=1.8.0
+joblib>=1.1.0
+rich>=13.0.0
+loguru>=0.7.0
